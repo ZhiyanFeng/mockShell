@@ -1,0 +1,8 @@
+What did I do last time?
+	- Wrote JUnit test and javadoc for echo
+
+What do I plan to do now?
+	- write JUnit tests and javadocs for manual, syntaxchecker, jshell
+
+Am I blocked on anything?
+	- making echo code more efficient

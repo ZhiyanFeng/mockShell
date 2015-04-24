@@ -1,0 +1,11 @@
+Class name: JShell
+Parent class: 
+Subclasses:	
+Responsibilities:
+*Starts the shell when it is called
+*Exit when receive an "exit" command
+*Receives input of user commands and displays the relevant output
+Collaborators:
+*FileSystem
+*Interpreter 
+*DirectoryStack

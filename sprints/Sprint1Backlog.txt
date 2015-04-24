@@ -1,0 +1,41 @@
+//Sprint 1 Backlog.  
+June 17 to June 21
+
+
+Product Backlog items to be implemented:
+a) Come to a consensus on and finalize CRC cards
+b) Create Tree-style data structure for FileSystem, Directory and File classes
+c) Code framework for JShell command line interpreting and parsing
+c) Begin coding on command classes: Echo and Cat
+
+Specific tasks to be accomplished:
+a-1. Finalize CRC cards
+b-1. (FileSystem, Directory, File) Code the data structure of the file system
+b-2. (FileSystem) Write the base code for the FileSystem class
+b-3. (Directory) Write the base code for the Directory class
+b-4. (File) Write the base code for the File class
+c-1. (JShell) Begin coding the structure of the command line interpreter
+c-2. (JShell) Have the shell continually prompt the user for input
+c-3. (JShell) Parse the user input for proper keywords
+d-1. (Echo) Begin coding Echo class
+d-2. (Echo) Make Echo append or overwrite depending on parameter
+d-3. (Echo) Create the file in the current working directory
+e-1. (Cat) Begin coding Cat class
+e-2. (Cat) Make sure user has input a correct file name
+e-3. (Cat) Print contents of file
+
+
+
+These tasks are assigned as follows:
+
+User: c3leeken
+Tasks: a-1 b-1, b-2, b-3, b-4
+
+User: c3garret
+Tasks: a-1, c-1, c-2, c-3
+
+User: c4songyb
+Tasks: a-1, d-1, d-2, d-3
+
+User: c4fengzi
+Tasks: a-1, e-1, e-2, e-3

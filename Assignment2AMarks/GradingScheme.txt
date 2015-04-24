@@ -1,0 +1,59 @@
+==== A2 phase I marking ====
+
+Group number: 0291
+UTORID usernames of members: c4fengzi,c4songyb,c3leeken,c3garret
+Total deductions: -3
+Grade: B+
+Corresponding TA: arbabi@cs.toronto.edu
+
+
+
+Your team's Phase II grade is based on this scale:
+
+    http://www.artsandscience.utoronto.ca/ofr/calendar/rules.htm#grading
+
+The way we graded is as follows: your team starts with an A+. When errors and
+problems are found, you will lose 0, 1, 2, or 3 letter steps, depending on the
+severity. As an example, if you lost two steps, your team would earn an A-:
+
+     A+ -> A
+     A -> A-
+
+You were asked to follow the Scrum process. A big part of that is to maintain
+a product backlog and a sprint backlog. 
+
+==== Product and Sprint backlogs ==== [up to -6]
+
+Several steps can be lost for these kinds of issues:
+
+  SB items not taken directly from PB -1
+  (Many SB items were different from PB items and they were smaller than PB items even before getting broken down to smaller steps)
+
+==== Java Style ==== [up to -6]
+
+Steps can be lost for these kinds of issues:
+    Not following the 80character column width limit. -1
+
+==== Correctness ==== [up to -6]
+    Four incorrect test cases: -1
+
+    INCORRECT TEST CASE 1:
+    /# echo "hello" > rootFile.txt
+    /# cp rootFile.txt copyRootFile.txt
+    rootFile.txt does not exist. --> cp command was not executed
+
+    INCORRECT TEST CASE 2:
+    /# cd /
+    /# mkdir folder1
+    /# mv folder1 folder2
+    Invalid command, please try again --> mv command was not executed
+
+    INCORRECT TEST CASE 3 & 4:
+    /# echo "hello world" > newFile
+    /# cat newFile
+    "hello world" --> the quatations were not to be written into the file
+
+    /# echo "today is monday" >> newFile
+    /# cat newFile
+    "hello world" "today is monday" --> had to be written in two lines
+

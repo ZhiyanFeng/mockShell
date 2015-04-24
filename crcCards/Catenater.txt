@@ -1,0 +1,12 @@
+Class name: Catenater
+Parent class: 
+Subclasses:	
+Responsibilities:
+*Displays contents of a file in the jShell
+*Capture display output and create outfile or append or overwrite to existing
+outfile when specified
+*Report if the file doesn't exist
+Collaborators:
+*File
+*Directory
+*DirectoryGetter

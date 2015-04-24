@@ -1,0 +1,11 @@
+What did I do last time?
+	- Nothing! This is the first sprint
+
+What do I plan to do now?
+	- Finalize design and CRC cards with group members
+	- Start writing the code for Jshell, leave comments for code that will be 
+	added after codes for commands are made
+
+Am I blocked on anything?
+	- A bit unsure about how the to write the code for the file system 
+	structure

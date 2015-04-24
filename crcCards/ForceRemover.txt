@@ -1,0 +1,7 @@
+Class name: ForceRemover
+Parent class: command
+Subclasses:	
+Responsibilities: remove file or directory without confirmation
+Collaborators:
+*Directory
+*File

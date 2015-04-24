@@ -1,0 +1,11 @@
+What did I do last time?
+	- Updated some CRC cards
+	- Started working on the echo class
+
+What do I plan to do now?
+	- Start coding the FileCopier and FileMover classes
+
+Am I blocked on anything?
+	- Waiting for the working directory and root directory to be coded 
+	(i.e stored in jShell or a fileSystem class) before I can continue 
+	working.

@@ -1,0 +1,7 @@
+Class name: FileSystem
+Parent class: 
+Subclasses:	
+Responsibilities:
+*Emulates a file system with root directory
+Collaborators:
+*Directory

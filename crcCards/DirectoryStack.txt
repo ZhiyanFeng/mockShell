@@ -1,0 +1,17 @@
+Class name: DirectoryStack
+Parent class: Command
+Subclasses:	
+Responsibilities:
+*Stack for directories with push and pop method
+*Push method saves the current working directory onto the stack and changes
+to a new specified current working directory, the old current directory is 
+saved so it can be returned later by the pop method
+*Pop method removes the top entry from the directory stack and makes it the 
+current working directory. If there the stack is empty, gives appropriate error
+ message.
+Collaborators:
+*FileSystem
+*Directory
+*DirectoryChanger
+*DirectoryGetter
+*DirectoryMaker

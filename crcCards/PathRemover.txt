@@ -1,0 +1,11 @@
+Class name: PathRemover
+Parent class: Command
+Subclasses:	
+Responsibilities:
+*Remove a path from the JShell FileSystem. If path is a directory, recursively 
+remove it's contents. 
+*Prompt for confirmation before removing each item unless specified not to.
+Collaborators:
+*DirectoryGetter
+*Directory
+*FileGetter

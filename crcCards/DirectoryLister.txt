@@ -1,0 +1,15 @@
+Class name: DirectoryLister
+Parent class: Command
+Subclasses:	
+Responsibilities:
+*Returns a string with the names of files and directories in the
+current directory with a new line following each of them
+*If a file is specified, return its name
+*If a directory is specified, return its contents
+*Capture display output and create outfile or append or overwrite to existing
+outfile when specified
+console
+* If specified, recursively list all subdirectories
+Collaborators:
+*File 
+*Directory

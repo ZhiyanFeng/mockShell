@@ -1,0 +1,11 @@
+What did I do last time?
+	- implement FileGetter , cd,cat commands
+	- wrote a test for directeryGetter
+
+What do I plan to do now?
+	- write one test class for each class i wrote
+	- check the integration of difference
+
+
+Am I blocked on anything?
+	- almost not

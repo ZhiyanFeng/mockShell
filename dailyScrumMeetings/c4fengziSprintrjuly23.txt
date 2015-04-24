@@ -1,0 +1,11 @@
+What did I do last time?
+- Finish off anything unfinished from last sprint for Remove Path
+- Add javadoc, if haven't already, to Remove Path
+- Create Junit tests for Remove Path
+	
+
+What do I plan to do now?
+	- nothing
+
+Am I blocked on anything?
+	- nopt

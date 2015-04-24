@@ -1,0 +1,7 @@
+Class name: File
+Parent class: 
+Subclasses:	
+Responsibilities:
+*Stores information for a single text file
+Collaborators:
+*

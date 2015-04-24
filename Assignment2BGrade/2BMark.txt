@@ -1,0 +1,36 @@
+==== A2 phase I marking ====
+
+Group number: 0291
+UTORID usernames of members: c4fengzi,c4songyb,c3leeken,c3garret
+Total deductions: -3
+Grade: B+
+Corresponding TA: arbabi@cs.toronto.edu
+
+Your team's Phase II grade is based on this scale:
+
+    http://www.artsandscience.utoronto.ca/ofr/calendar/rules.htm#grading
+
+The way we graded is as follows: your team starts with an A+. When errors and
+problems are found, you will lose 0, 1, 2, or 3 letter steps, depending on the
+severity. As an example, if you lost two steps, your team would earn an A-:
+
+     A+ -> A
+     A -> A-
+
+You were asked to follow the Scrum process. A big part of that is to maintain
+a product backlog and a sprint backlog. 
+
+==== Javadoc ==== [up to -3]
+
+Several steps can be lost for these kinds of issues:
+
+    Missing Javadoc on class DirectoryStack (no marks deducted)
+    No Javadoc on instance vars -1
+
+==== Testing ==== [up to -6] 
+Several steps can be lost for these kinds of issues:
+    No test cases exist for new class ForceRemover -1
+
+==== Correctness ==== [up to -6]
+    "cat file.txt > anotherFile.txt" does not work
+    "rm -f folder" crashes -1

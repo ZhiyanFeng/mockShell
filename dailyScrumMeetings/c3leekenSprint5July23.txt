@@ -1,0 +1,11 @@
+What did I do last time?
+	- Coded recursive functionality for ls command
+	- Updated javadocs to reflect the change
+	- Updated parsing code to handle input commands for recursive ls
+
+What do I plan to do now?
+	- Create test cases for recursive calls
+	- Update CRC card for DirectoryLister
+
+Am I blocked on anything?
+	- Nope

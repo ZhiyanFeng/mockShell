@@ -1,0 +1,59 @@
+//Sprint 3 Backlog.  
+July 2 to July 5
+
+
+Product Backlog items to be implemented:
+a) Clean up and finalize code (utilizing helper methods where applicable)
+b) Write JUnit tests for each class (write for the classes each were 
+	responsible for)
+c) Write Javadocs for each class as well
+
+
+Specific tasks to be accomplished:
+a-1. Resolve any remaining issues that hinder full functionality
+b-1. Write JUnit tests for class: Directory
+b-2. File
+b-3. FileSystem
+b-4. DirectoryLister
+b-5. DirectoryMaker
+b-6. JShell
+b-7. Echo
+b-8. Manual
+b-9. SyntaxChecker
+b-10. DirectoryPrinter
+b-11. FileCopier
+b-12. FileMover
+b-13. Catenater
+b-14. DirectoryChanger
+b-15. DirectoryGetter
+b-16. fileGetter
+c-1. Write javadocs for class: Directory
+c-2. File
+c-3. FileSystem
+c-4. DirectoryLister
+c-5. DirectoryMaker
+c-6. JShell
+c-7. Echo
+c-8. Manual
+c-9. SyntaxChecker
+c-10. DirectoryPrinter
+c-11. FileCopier
+c-12. FileMover
+c-13. Catenater
+c-14. DirectoryChanger
+c-15. DirectoryGetter
+c-16. fileGetter
+
+These tasks are assigned as follows:
+
+User: c3leeken
+Tasks: a-1, b-1, b-2,b-3, b-4, b-5, c-1, c-2, c-3, c-4, c-5
+
+User: c3garret
+Tasks: a-1, b-6, b-7, b-8, b-9, c-6, c-7, c-8, c-9
+
+User: c4songyb
+Tasks: a-1, b-10, b-11, b-12, c-10, c-11, c-12
+
+User: c4fengzi
+Tasks: a-1, b-13, b-14, b-15, b-16, c-13, c-14, c-15, c-16

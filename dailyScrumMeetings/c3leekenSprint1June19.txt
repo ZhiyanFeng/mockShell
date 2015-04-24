@@ -1,0 +1,10 @@
+What did I do last time?
+	- Nothing! This is the first sprint
+
+What do I plan to do now?
+	- Argue about and finalize CRC cards with group members
+	- Start coding Tree-style data structure using FileSystem, Directory
+		 and (to a lesser extent) File
+
+Am I blocked on anything?
+	- A little confused on using FileSystem as the root of the tree

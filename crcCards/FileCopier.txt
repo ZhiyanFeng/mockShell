@@ -1,0 +1,9 @@
+Class  name:  FileCopier
+Parent class: Command
+Subclasses:  FileMover
+Responsibilities:
+*Makes a copy of a file, with a new name specified by the user
+*Reports if a file with the specified new name already exists
+Collaborators:
+*File
+*Directory

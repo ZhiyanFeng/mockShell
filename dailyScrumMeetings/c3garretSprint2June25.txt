@@ -1,0 +1,12 @@
+What did I do last time?
+	- Helped my group finish off CRC cards
+	- Created outline of code for JShell
+
+What do I plan to do now?
+	- Write a string documentation variable for each command class
+	- Create a class to print documentation for any class
+	- Write a class to make a new file with a string or append to an existing file
+	  (related to echo command)
+
+Am I blocked on anything?
+	- Must look up how to make and edit files in Java code

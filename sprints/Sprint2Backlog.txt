@@ -1,0 +1,45 @@
+//Sprint 1 Backlog.  
+June 23 to June 26
+
+
+Product Backlog items to be implemented:
+z) Rename CRC cards and Class files to be more descriptive
+a) Code class for making directory (mkdir)
+b) Code class for changing directory (cd)
+c) Code class to list contents of directory (ls)
+d) Code class for moving/copying file (mv/cp)
+e) Code class for printing current working directory (pwd)
+f) Code class for making a new file with a string or appending to 
+	an existing file (echo)
+g) Code class to print documentation on a command (man)
+
+Specific tasks to be accomplished:
+z-1. Rename CRC card files and Java classes (if already created)
+a-1. Write class to create possibly multiple directories (could be full paths)
+a-2. Write helper code to parse and traverse full paths
+b-1. Write class to change directories (in current directory or full path)
+c-1. Write class to print contents of a directory (current or full path)
+d-1. Write class to move a file or directory to a new location
+d-2. Write class to copy a file or directory to a new location
+e-1. Write class to print current working directory
+f-1. Write class to make new file with a string or append to an existing file
+		depending on input parameter when command is called
+g-1. Write class to print documentation on any command
+g-2. Write a final static String variable in each command class that
+		contains its documentation
+
+
+
+These tasks are assigned as follows:
+
+User: c3leeken
+Tasks: a-1, c-1
+
+User: c3garret
+Tasks: f-1, g-1, g-2
+
+User: c4songyb
+Tasks: d-1, d-2, e-1
+
+User: c4fengzi
+Tasks: z-1, b-1, a-2

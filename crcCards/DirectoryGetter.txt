@@ -1,0 +1,7 @@
+Class name: DirectoryGetter
+Parent class: command
+Subclasses:	
+Responsibilities:
+*given a string file name, find out the directory object
+Collaborators:
+*Jshell

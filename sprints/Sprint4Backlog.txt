@@ -1,0 +1,52 @@
+//Sprint 4 Backlog.  
+July 18 to July 22
+
+Product Backlog items to be implemented:
+a) Create CRC cards for new classes.
+b) List Contents Recursively
+c) Push Directory and Pop Directory
+d) Get File from URL
+e) Remove Path	
+f) Create Interpreter helper class for Jshell
+g) Adjust JShell to allow all commands excluding exit to apply > OUTFILE or
+ >> OUTFILE to the regular command. Only create outfiles for commands that
+ would otherwise print output to the console.
+
+Specific tasks to be accomplished:
+a-1) Update CRC card collection
+b-1) Adjust DirectoryLister class to list contents recursively when specified
+b-2) Make any consequent required changes in Jshell/interpreter
+ to process this change
+c-1) Create stack class for working directories with push and pop method for
+working directories 
+c-2) Make any consequent required changes in Jshell/interpreter to accept this
+new class and commands
+d-1) Create class to handle command to get file from URL, may need to create 
+helper classes to assist with this
+d-2) Make any consequent required changes in Jshell/interpreter to accept this
+new class and commands
+e-1) Create class to remove a path (relative or absolute) - must only remove
+after receiving confirmation from the user, if the path is a directory, 
+recursively remove all files and directories in it, prompting
+for confirmation before remove each one. If specified, do not prompt for
+ confirmation. This class may take more than one sprint to complete
+e-2) Make any consequent required changes in Jshell/interpreter to accept this
+new class and commands
+f-1) Create Interpeter helper class for Jshell - class that interprets user
+input
+g-1) Adjust Jshell and interpreter to accomadate > OUTFILE or >> OUTFILE to 
+every command except exit.
+
+These tasks are assigned as follows:
+
+User: c3leeken
+Tasks: a-1, b-1, b-2
+
+User: c3garret
+Tasks: a-1, d-1, d-2 f-1, g-1
+
+User: c4songyb
+Tasks: a-1, c-1, c-2
+
+User: c4fengzi
+Tasks: a-1, e-1, e-2

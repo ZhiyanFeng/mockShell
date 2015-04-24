@@ -1,0 +1,13 @@
+Class name: Echo
+Parent class: Command
+Subclasses:	
+Responsibilities:
+*Outputs a specified string to jShell if an output file is not provided
+*Either appends or overwrites a file with a string specified by the user, if
+the user provides an outfile that exists
+*Creates a new file with a specified string as content if the outfile does
+ not already exist
+Collaborators:
+*File
+*Directory
+*GetDirectory

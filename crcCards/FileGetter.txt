@@ -1,0 +1,8 @@
+Class name: FileGetter
+Parent class: command
+Subclasses:	
+Responsibilities: 
+*check if file exist and grab the file
+Collaborators:
+*Directory
+*File

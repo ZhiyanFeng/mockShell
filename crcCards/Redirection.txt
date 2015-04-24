@@ -1,0 +1,17 @@
+Class name: Redirecter
+Parent class: 
+Subclasses:	
+Responsibilities:
+*Interprets redirection commands for the interpreter class.
+Collaborators:
+*DirectoryMaker
+*DirectoryChanger
+*DirectoryLister
+*DirectoryPrinter
+*FileMover
+*FileCopier
+*Catenater
+*FileGetter
+*FileAdder
+*FileAppender
+*Interpreter

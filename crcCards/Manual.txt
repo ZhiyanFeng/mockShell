@@ -1,0 +1,11 @@
+Class name: Manual
+Parent class: Command
+Subclasses:	
+Responsibilities:
+* Print instructions explaining how to use the program
+* Document purpose of each command and possible arguments
+  for each command
+*Capture display output and create outfile or append or overwrite to existing
+outfile when specified
+Collaborators:
+*JShell

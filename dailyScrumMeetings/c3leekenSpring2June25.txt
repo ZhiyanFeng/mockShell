@@ -1,0 +1,11 @@
+What did I do last time?
+	- Made changes to data structure (reverted after discussion with group), 
+	- Added more methods into Directory
+	- Implemented DirectoryMaker command class with static method MakeDir
+	- Added separate getDir method in DirectoryGetter
+
+What do I plan to do now?
+	- Implement what commands we have in JShell to prepare for demonstration
+
+Am I blocked on anything?
+	- Nothing immediate

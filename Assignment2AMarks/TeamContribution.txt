@@ -1,0 +1,1295 @@
++++ASSIGNMENT2 TEAM MEMBER CONTRIBUTION+++
+
+
+
+PART 1) +++SVN CHECKOUT ON YOUR ASSIGNMENT1+++
+A    Assignment2/dailyScrumMeetings
+A    Assignment2/dailyScrumMeetings/c3garretSprint3June29.txt
+A    Assignment2/dailyScrumMeetings/c4songybSprint1June20.txt
+A    Assignment2/dailyScrumMeetings/c3garretSprint1June20.txt
+A    Assignment2/dailyScrumMeetings/c4fengziSprint1June21.txt
+A    Assignment2/dailyScrumMeetings/c4songybSprint3July3.txt
+A    Assignment2/dailyScrumMeetings/c4songybSprint2June25.txt
+A    Assignment2/dailyScrumMeetings/c3garretSprint3July3.txt
+A    Assignment2/dailyScrumMeetings/c3leekenSprint3July4.txt
+A    Assignment2/dailyScrumMeetings/c4fengziSprint2june16.txt
+A    Assignment2/dailyScrumMeetings/c4fengziSprint3july4.txt
+A    Assignment2/dailyScrumMeetings/c3garretSprint2June25.txt
+A    Assignment2/dailyScrumMeetings/c3leekenSprint1June19.txt
+A    Assignment2/dailyScrumMeetings/readMeDailyScrumMeetings.txt
+A    Assignment2/dailyScrumMeetings/c3leekenSpring2June25.txt
+A    Assignment2/dailyScrumMeetings/c3leekenSprint3July6
+A    Assignment2/.settings
+A    Assignment2/.settings/org.eclipse.jdt.core.prefs
+A    Assignment2/.classpath
+A    Assignment2/sprints
+A    Assignment2/sprints/Sprint3Backlog.txt
+A    Assignment2/sprints/readMeSprints.txt
+A    Assignment2/sprints/Sprint1Backlog.txt
+A    Assignment2/sprints/Sprint2Backlog.txt
+A    Assignment2/productBacklog
+A    Assignment2/productBacklog/readMeProductBacklog.txt
+A    Assignment2/productBacklog/productBacklogFor2A.txt
+A    Assignment2/.project
+A    Assignment2/crcCards
+A    Assignment2/crcCards/DirectoryChanger.txt
+A    Assignment2/crcCards/Directory.txt
+A    Assignment2/crcCards/Catenater.txt
+A    Assignment2/crcCards/DirectoryPrinter.txt
+A    Assignment2/crcCards/readMeForCrcCards.txt
+A    Assignment2/crcCards/SyntaxChecker.txt
+A    Assignment2/crcCards/Manual.txt
+A    Assignment2/crcCards/Command.txt
+A    Assignment2/crcCards/Echo.txt
+A    Assignment2/crcCards/DirectoryGetter.txt
+A    Assignment2/crcCards/File.txt
+A    Assignment2/crcCards/FileCopier.txt
+A    Assignment2/crcCards/JShell.txt
+A    Assignment2/crcCards/DirectoryMaker.txt
+A    Assignment2/crcCards/DirectoryLister.txt
+A    Assignment2/crcCards/FileMover.txt
+A    Assignment2/crcCards/FileGetter.txt
+A    Assignment2/doc
+A    Assignment2/doc/deprecated-list.html
+A    Assignment2/doc/allclasses-noframe.html
+A    Assignment2/doc/help-doc.html
+A    Assignment2/doc/stylesheet.css
+A    Assignment2/doc/allclasses-frame.html
+A    Assignment2/doc/a2
+A    Assignment2/doc/a2/Directory.html
+A    Assignment2/doc/a2/Catenater.html
+A    Assignment2/doc/a2/DirectoryPrinter.html
+A    Assignment2/doc/a2/SyntaxChecker.html
+A    Assignment2/doc/a2/Manual.html
+A    Assignment2/doc/a2/Command.html
+A    Assignment2/doc/a2/Echo.html
+A    Assignment2/doc/a2/DirectoryGetter.html
+A    Assignment2/doc/a2/File.html
+A    Assignment2/doc/a2/FileCopier.html
+A    Assignment2/doc/a2/package-frame.html
+A    Assignment2/doc/a2/DirectoryMaker.html
+A    Assignment2/doc/a2/FileSystem.html
+A    Assignment2/doc/a2/package-use.html
+A    Assignment2/doc/a2/package-summary.html
+A    Assignment2/doc/a2/DirectoryLister.html
+A    Assignment2/doc/a2/package-tree.html
+A    Assignment2/doc/a2/FileMover.html
+A    Assignment2/doc/a2/FileGetter.html
+A    Assignment2/doc/a2/DirectoryChanger.html
+A    Assignment2/doc/a2/class-use
+A    Assignment2/doc/a2/class-use/SyntaxChecker.html
+A    Assignment2/doc/a2/class-use/Manual.html
+A    Assignment2/doc/a2/class-use/Command.html
+A    Assignment2/doc/a2/class-use/Echo.html
+A    Assignment2/doc/a2/class-use/DirectoryGetter.html
+A    Assignment2/doc/a2/class-use/File.html
+A    Assignment2/doc/a2/class-use/FileCopier.html
+A    Assignment2/doc/a2/class-use/DirectoryMaker.html
+A    Assignment2/doc/a2/class-use/FileSystem.html
+A    Assignment2/doc/a2/class-use/DirectoryLister.html
+A    Assignment2/doc/a2/class-use/FileMover.html
+A    Assignment2/doc/a2/class-use/FileGetter.html
+A    Assignment2/doc/a2/class-use/DirectoryChanger.html
+A    Assignment2/doc/a2/class-use/Directory.html
+A    Assignment2/doc/a2/class-use/Catenater.html
+A    Assignment2/doc/a2/class-use/DirectoryPrinter.html
+A    Assignment2/doc/package-list
+A    Assignment2/doc/overview-tree.html
+A    Assignment2/doc/index-files
+A    Assignment2/doc/index-files/index-1.html
+A    Assignment2/doc/index-files/index-10.html
+A    Assignment2/doc/index-files/index-11.html
+A    Assignment2/doc/index-files/index-2.html
+A    Assignment2/doc/index-files/index-12.html
+A    Assignment2/doc/index-files/index-3.html
+A    Assignment2/doc/index-files/index-4.html
+A    Assignment2/doc/index-files/index-5.html
+A    Assignment2/doc/index-files/index-6.html
+A    Assignment2/doc/index-files/index-7.html
+A    Assignment2/doc/index-files/index-8.html
+A    Assignment2/doc/index-files/index-9.html
+A    Assignment2/doc/constant-values.html
+A    Assignment2/doc/index.html
+A    Assignment2/doc/resources
+A    Assignment2/doc/resources/tab.gif
+A    Assignment2/doc/resources/titlebar.gif
+A    Assignment2/doc/resources/titlebar_end.gif
+A    Assignment2/doc/resources/background.gif
+A    Assignment2/readMeAssignment2A.txt
+A    Assignment2/src
+A    Assignment2/src/driver
+A    Assignment2/src/driver/JShell.java
+A    Assignment2/src/test
+A    Assignment2/src/test/CatenaterTest.java
+A    Assignment2/src/test/DirectoryListerTest.java
+A    Assignment2/src/test/DirectoryPrinterTest.java
+A    Assignment2/src/test/FileMoverTest.java
+A    Assignment2/src/test/FileGetterTest.java
+A    Assignment2/src/test/SyntaxCheckerTest.java
+A    Assignment2/src/test/DirectoryChangerTest.java
+A    Assignment2/src/test/EchoTest.java
+A    Assignment2/src/test/DirectoryGetterTest.java
+A    Assignment2/src/test/FileTest.java
+A    Assignment2/src/test/FileCopierTest.java
+A    Assignment2/src/test/DirectoryMakerTest.java
+A    Assignment2/src/test/DirectoryTest.java
+A    Assignment2/src/test/FileSystemTest.java
+A    Assignment2/src/test/ManualTester.java
+A    Assignment2/src/Exceptions
+A    Assignment2/src/Exceptions/NoSuchDirectoryException.java
+A    Assignment2/src/a2
+A    Assignment2/src/a2/FileGetter.java
+A    Assignment2/src/a2/DirectoryChanger.java
+A    Assignment2/src/a2/Directory.java
+A    Assignment2/src/a2/Catenater.java
+A    Assignment2/src/a2/DirectoryPrinter.java
+A    Assignment2/src/a2/SyntaxChecker.java
+A    Assignment2/src/a2/Manual.java
+A    Assignment2/src/a2/Command.java
+A    Assignment2/src/a2/Echo.java
+A    Assignment2/src/a2/DirectoryGetter.java
+A    Assignment2/src/a2/File.java
+A    Assignment2/src/a2/FileCopier.java
+A    Assignment2/src/a2/DirectoryMaker.java
+A    Assignment2/src/a2/FileSystem.java
+A    Assignment2/src/a2/DirectoryLister.java
+A    Assignment2/src/a2/FileMover.java
+Checked out revision 265.
+
+
+
+PART 2) +++SVN COMMIT LOGS ARE+++
+Marks Deductions here (-.5 max): 
+------------------------------------------------------------------------
+r265 | c3leeken | 2014-07-06 23:43:18 -0400 (Sun, 06 Jul 2014) | 1 line
+
+Added automatically generated Javadocs
+------------------------------------------------------------------------
+r264 | c3garret | 2014-07-06 18:32:21 -0400 (Sun, 06 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r263 | c4songyb | 2014-07-06 17:33:18 -0400 (Sun, 06 Jul 2014) | 1 line
+
+Fixed a small bug in FileCopier (+ some small updates to some junit tests)
+------------------------------------------------------------------------
+r262 | c3leeken | 2014-07-06 16:51:33 -0400 (Sun, 06 Jul 2014) | 1 line
+
+Added scrum meeting file
+------------------------------------------------------------------------
+r261 | c3leeken | 2014-07-06 16:47:54 -0400 (Sun, 06 Jul 2014) | 1 line
+
+Added Javadoc comments to Command, Directory, DirectoryLister, DirectoryMaker, File and FileSystem classes
+------------------------------------------------------------------------
+r260 | c4songyb | 2014-07-06 16:45:29 -0400 (Sun, 06 Jul 2014) | 1 line
+
+Added some new tests for FileCopier and FileMover.
+------------------------------------------------------------------------
+r259 | c4songyb | 2014-07-06 16:45:03 -0400 (Sun, 06 Jul 2014) | 1 line
+
+FileCopier now uses SyntaxChecker to check for invalid file&directory names. Some minor updates were also added to FileMover.
+------------------------------------------------------------------------
+r258 | c4songyb | 2014-07-06 16:14:12 -0400 (Sun, 06 Jul 2014) | 1 line
+
+Added some tests to FileCopierTest and FileMoverTest.
+------------------------------------------------------------------------
+r257 | c3garret | 2014-07-06 15:28:02 -0400 (Sun, 06 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r256 | c3garret | 2014-07-06 15:27:26 -0400 (Sun, 06 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r255 | c4songyb | 2014-07-06 15:01:17 -0400 (Sun, 06 Jul 2014) | 1 line
+
+Added Javadocs for DirectoryPrinter
+------------------------------------------------------------------------
+r254 | c3leeken | 2014-07-06 13:37:26 -0400 (Sun, 06 Jul 2014) | 1 line
+
+Added DirectoryMakerTest unit test
+------------------------------------------------------------------------
+r253 | c3garret | 2014-07-06 12:05:33 -0400 (Sun, 06 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r252 | c3garret | 2014-07-06 11:50:29 -0400 (Sun, 06 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r251 | c3garret | 2014-07-06 11:43:39 -0400 (Sun, 06 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r250 | c3garret | 2014-07-06 11:43:10 -0400 (Sun, 06 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r249 | c3garret | 2014-07-06 10:19:35 -0400 (Sun, 06 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r248 | c4songyb | 2014-07-05 21:43:45 -0400 (Sat, 05 Jul 2014) | 1 line
+
+Added tests for FileMover and some minor fixes for the FileMover&FileCopier classes.
+------------------------------------------------------------------------
+r247 | c4songyb | 2014-07-05 21:34:12 -0400 (Sat, 05 Jul 2014) | 1 line
+
+Made some minor changes to FileMover.
+------------------------------------------------------------------------
+r246 | c4songyb | 2014-07-05 21:18:46 -0400 (Sat, 05 Jul 2014) | 1 line
+
+Fixed a bug with deleteFile/deleteDirectory, that had frequently caused a oncurrentModificationException to be thrown whenever a file/directory got deleted.
+------------------------------------------------------------------------
+r245 | c4songyb | 2014-07-05 20:14:02 -0400 (Sat, 05 Jul 2014) | 1 line
+
+Made some small changes to FileCopierTest.
+------------------------------------------------------------------------
+r244 | c4fengzi | 2014-07-05 18:57:19 -0400 (Sat, 05 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r243 | c4songyb | 2014-07-05 16:54:37 -0400 (Sat, 05 Jul 2014) | 1 line
+
+Added some tests for FileCopier and updated the FileCopier class as well.
+------------------------------------------------------------------------
+r242 | c4fengzi | 2014-07-04 23:48:11 -0400 (Fri, 04 Jul 2014) | 1 line
+
+sprint 3
+------------------------------------------------------------------------
+r241 | c4fengzi | 2014-07-04 23:43:12 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r240 | c3leeken | 2014-07-04 23:03:26 -0400 (Fri, 04 Jul 2014) | 1 line
+
+Completed rewrite of DirectoryLister, added Sprint log
+------------------------------------------------------------------------
+r239 | c4fengzi | 2014-07-04 22:57:29 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r238 | c4fengzi | 2014-07-04 22:48:21 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r237 | c4fengzi | 2014-07-04 22:46:35 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r236 | c4fengzi | 2014-07-04 22:45:51 -0400 (Fri, 04 Jul 2014) | 1 line
+
+test case fore Filegetter
+------------------------------------------------------------------------
+r235 | c4fengzi | 2014-07-04 21:57:24 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r234 | c3garret | 2014-07-04 21:37:10 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r233 | c4songyb | 2014-07-04 20:16:02 -0400 (Fri, 04 Jul 2014) | 1 line
+
+Added tests for DirectoryPrinter
+------------------------------------------------------------------------
+r232 | c3leeken | 2014-07-04 20:14:45 -0400 (Fri, 04 Jul 2014) | 1 line
+
+Completely rewrote listDir in DirectoryLister
+------------------------------------------------------------------------
+r231 | c3garret | 2014-07-04 17:54:53 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r230 | c3leeken | 2014-07-04 16:33:34 -0400 (Fri, 04 Jul 2014) | 1 line
+
+Removed unused getWorkingDirectory method in FileSystem.  Added FileSystemTest unit test
+------------------------------------------------------------------------
+r229 | c3leeken | 2014-07-04 16:24:39 -0400 (Fri, 04 Jul 2014) | 1 line
+
+Deleted setRootNull method from FileSystem.  Added FileTest unit test.
+------------------------------------------------------------------------
+r228 | c3leeken | 2014-07-04 16:05:49 -0400 (Fri, 04 Jul 2014) | 1 line
+
+Removed unnecessary imports in Directory.  Added missing call to list files in certain scenarios for DirectoryLister.  Added DirectoryTest unit test.
+------------------------------------------------------------------------
+r227 | c3garret | 2014-07-04 15:49:08 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r226 | c3garret | 2014-07-04 14:23:50 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r225 | c3garret | 2014-07-04 14:16:13 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r224 | c3garret | 2014-07-04 14:11:46 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r223 | c3garret | 2014-07-04 14:06:49 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r222 | c3garret | 2014-07-04 13:51:50 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r221 | c3garret | 2014-07-04 13:47:04 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r220 | c3garret | 2014-07-04 07:46:39 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r219 | c3garret | 2014-07-04 07:34:02 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r218 | c3garret | 2014-07-04 07:31:33 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r217 | c3garret | 2014-07-04 06:07:52 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r216 | c3garret | 2014-07-04 06:03:50 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r215 | c4fengzi | 2014-07-04 01:24:58 -0400 (Fri, 04 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r214 | c3leeken | 2014-07-03 23:17:17 -0400 (Thu, 03 Jul 2014) | 1 line
+
+Added code to (hopefully) complete full functionality of DirectoryLister (ls command)
+------------------------------------------------------------------------
+r213 | c4songyb | 2014-07-03 19:58:19 -0400 (Thu, 03 Jul 2014) | 1 line
+
+Added scrum meeting
+------------------------------------------------------------------------
+r212 | c4songyb | 2014-07-03 19:47:00 -0400 (Thu, 03 Jul 2014) | 1 line
+
+Updated FileCopier and FileMover, and also added a fix for Directory's deleteFile method.
+------------------------------------------------------------------------
+r211 | c3garret | 2014-07-03 12:36:17 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r210 | c3garret | 2014-07-03 12:29:49 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r209 | c3garret | 2014-07-03 12:26:59 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r208 | c3garret | 2014-07-03 12:19:02 -0400 (Thu, 03 Jul 2014) | 1 line
+
+added valid directory name checker
+------------------------------------------------------------------------
+r207 | c3garret | 2014-07-03 12:17:09 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r206 | c3garret | 2014-07-03 12:16:09 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r205 | c3garret | 2014-07-03 12:15:16 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r204 | c3garret | 2014-07-03 12:02:27 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r203 | c3garret | 2014-07-03 12:00:23 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r202 | c3garret | 2014-07-03 11:51:47 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r201 | c3garret | 2014-07-03 11:47:33 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r200 | c3garret | 2014-07-03 11:47:21 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r199 | c4fengzi | 2014-07-03 09:31:18 -0400 (Thu, 03 Jul 2014) | 1 line
+
+fix exit bug
+------------------------------------------------------------------------
+r198 | c4fengzi | 2014-07-03 08:52:20 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r197 | c4fengzi | 2014-07-03 08:51:59 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r196 | c4fengzi | 2014-07-03 08:30:55 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r195 | c3garret | 2014-07-03 08:26:20 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r194 | c3garret | 2014-07-03 08:23:43 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r193 | c3garret | 2014-07-03 08:23:19 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r192 | c3garret | 2014-07-03 08:22:15 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r191 | c3garret | 2014-07-03 08:14:24 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r190 | c3garret | 2014-07-03 08:11:32 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r189 | c3garret | 2014-07-03 08:11:20 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r188 | c3garret | 2014-07-03 08:02:19 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r187 | c3garret | 2014-07-03 08:01:10 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r186 | c3garret | 2014-07-03 07:01:55 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r185 | c3garret | 2014-07-03 06:59:41 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r184 | c3garret | 2014-07-03 06:57:53 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r183 | c3garret | 2014-07-03 06:55:49 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r182 | c3garret | 2014-07-03 06:29:55 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r181 | c3garret | 2014-07-03 06:29:04 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r180 | c3garret | 2014-07-03 06:09:13 -0400 (Thu, 03 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r179 | c3leeken | 2014-07-02 22:33:59 -0400 (Wed, 02 Jul 2014) | 1 line
+
+Sprint3Backlog added, items in Sprint2Backlog changed to reflect change to work done before
+------------------------------------------------------------------------
+r178 | c4fengzi | 2014-07-02 20:07:33 -0400 (Wed, 02 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r177 | c3garret | 2014-07-02 11:00:53 -0400 (Wed, 02 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r176 | c3garret | 2014-07-02 10:58:20 -0400 (Wed, 02 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r175 | c3garret | 2014-07-02 10:55:08 -0400 (Wed, 02 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r174 | c3garret | 2014-07-01 16:10:58 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r173 | c3garret | 2014-07-01 16:01:41 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r172 | c3garret | 2014-07-01 15:59:11 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r171 | c3garret | 2014-07-01 15:57:50 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r170 | c3garret | 2014-07-01 15:39:30 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r169 | c3garret | 2014-07-01 15:11:57 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r168 | c3garret | 2014-07-01 15:11:41 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r167 | c3garret | 2014-07-01 15:10:13 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r166 | c3garret | 2014-07-01 15:09:48 -0400 (Tue, 01 Jul 2014) | 1 line
+
+fixing my typo: /n to \n
+------------------------------------------------------------------------
+r165 | c3garret | 2014-07-01 15:09:16 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r164 | c3garret | 2014-07-01 15:08:57 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r163 | c3garret | 2014-07-01 15:08:30 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r162 | c3garret | 2014-07-01 15:07:57 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r161 | c3garret | 2014-07-01 15:04:43 -0400 (Tue, 01 Jul 2014) | 2 lines
+
+changed documentation to private
+
+------------------------------------------------------------------------
+r160 | c3garret | 2014-07-01 15:03:50 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r159 | c3garret | 2014-07-01 15:01:02 -0400 (Tue, 01 Jul 2014) | 2 lines
+
+echo test class
+
+------------------------------------------------------------------------
+r158 | c3garret | 2014-07-01 14:52:09 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r157 | c3garret | 2014-07-01 14:46:17 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r156 | c3garret | 2014-07-01 14:25:26 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r155 | c3garret | 2014-07-01 14:22:49 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r154 | c3garret | 2014-07-01 14:04:33 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r153 | c3garret | 2014-07-01 13:56:37 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r152 | c3garret | 2014-07-01 13:44:17 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r151 | c3garret | 2014-07-01 09:15:36 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r150 | c3garret | 2014-07-01 08:33:30 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r149 | c3garret | 2014-07-01 08:26:58 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r148 | c3garret | 2014-07-01 08:05:43 -0400 (Tue, 01 Jul 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r147 | c3garret | 2014-06-30 18:18:24 -0400 (Mon, 30 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r146 | c3garret | 2014-06-30 09:12:28 -0400 (Mon, 30 Jun 2014) | 1 line
+
+changed documentation to private variable
+------------------------------------------------------------------------
+r145 | c3garret | 2014-06-30 09:08:45 -0400 (Mon, 30 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r144 | c4fengzi | 2014-06-29 21:35:14 -0400 (Sun, 29 Jun 2014) | 1 line
+
+delete cat class
+------------------------------------------------------------------------
+r143 | c4songyb | 2014-06-29 20:39:04 -0400 (Sun, 29 Jun 2014) | 1 line
+
+Updated the FileCopier and FileMover classes
+------------------------------------------------------------------------
+r142 | c3garret | 2014-06-29 19:55:23 -0400 (Sun, 29 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r141 | c3garret | 2014-06-29 19:51:13 -0400 (Sun, 29 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r140 | c3garret | 2014-06-29 19:42:14 -0400 (Sun, 29 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r139 | c4fengzi | 2014-06-29 13:31:46 -0400 (Sun, 29 Jun 2014) | 1 line
+
+fix bug in catenater
+------------------------------------------------------------------------
+r138 | c4fengzi | 2014-06-29 12:46:33 -0400 (Sun, 29 Jun 2014) | 1 line
+
+fix bug in Catenater and add two exceptions
+------------------------------------------------------------------------
+r137 | c3garret | 2014-06-28 19:27:48 -0400 (Sat, 28 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r136 | c4fengzi | 2014-06-28 19:22:07 -0400 (Sat, 28 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r135 | c3garret | 2014-06-28 19:16:37 -0400 (Sat, 28 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r134 | c3garret | 2014-06-28 19:14:30 -0400 (Sat, 28 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r133 | c3garret | 2014-06-28 19:02:00 -0400 (Sat, 28 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r132 | c4fengzi | 2014-06-28 16:00:01 -0400 (Sat, 28 Jun 2014) | 1 line
+
+sprint2
+------------------------------------------------------------------------
+r131 | c3garret | 2014-06-28 10:04:26 -0400 (Sat, 28 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r130 | c3garret | 2014-06-28 09:57:42 -0400 (Sat, 28 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r129 | c3garret | 2014-06-28 08:56:22 -0400 (Sat, 28 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r128 | c3garret | 2014-06-28 08:24:03 -0400 (Sat, 28 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r127 | c3garret | 2014-06-28 07:03:57 -0400 (Sat, 28 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r126 | c3garret | 2014-06-28 06:56:55 -0400 (Sat, 28 Jun 2014) | 1 line
+
+I thought it would be helpful to have a helper function to check for valid filenames, and string names, let me know what you guys think
+------------------------------------------------------------------------
+r125 | c3garret | 2014-06-28 06:56:05 -0400 (Sat, 28 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r124 | c3garret | 2014-06-28 06:07:05 -0400 (Sat, 28 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r123 | c3garret | 2014-06-27 23:52:02 -0400 (Fri, 27 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r122 | c3garret | 2014-06-27 23:44:43 -0400 (Fri, 27 Jun 2014) | 1 line
+
+final version of echo
+------------------------------------------------------------------------
+r121 | c3garret | 2014-06-27 23:28:36 -0400 (Fri, 27 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r120 | c4fengzi | 2014-06-27 14:59:25 -0400 (Fri, 27 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r119 | c3leeken | 2014-06-27 14:42:25 -0400 (Fri, 27 Jun 2014) | 1 line
+
+Fixed JShell's Manual call to work properly again.  Added clause in Manual if no such command is called by man
+------------------------------------------------------------------------
+r118 | c4songyb | 2014-06-27 14:00:25 -0400 (Fri, 27 Jun 2014) | 1 line
+
+Added the move and copy methods to the jShell
+------------------------------------------------------------------------
+r117 | c4songyb | 2014-06-27 13:59:39 -0400 (Fri, 27 Jun 2014) | 1 line
+
+Updated the FileCopier and FileMover classes
+------------------------------------------------------------------------
+r116 | c3garret | 2014-06-27 02:04:01 -0400 (Fri, 27 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r115 | c3garret | 2014-06-27 01:51:28 -0400 (Fri, 27 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r114 | c3garret | 2014-06-27 01:50:51 -0400 (Fri, 27 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r113 | c3garret | 2014-06-27 01:49:38 -0400 (Fri, 27 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r112 | c3garret | 2014-06-27 01:37:47 -0400 (Fri, 27 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r111 | c3garret | 2014-06-27 01:36:00 -0400 (Fri, 27 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r110 | c3leeken | 2014-06-27 00:46:32 -0400 (Fri, 27 Jun 2014) | 1 line
+
+Removed get call from JShell (assignment does not call for implementing it)
+------------------------------------------------------------------------
+r109 | c3garret | 2014-06-27 00:27:11 -0400 (Fri, 27 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r108 | c3garret | 2014-06-27 00:25:07 -0400 (Fri, 27 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r107 | c3leeken | 2014-06-26 23:49:15 -0400 (Thu, 26 Jun 2014) | 1 line
+
+Deleted old commented out code in DirectoryMaker.  Ironed out bugs in DirectoryLister.  Made minor change to error message in DirectoryGetter when a directory doesn't exist
+------------------------------------------------------------------------
+r106 | c4fengzi | 2014-06-26 22:44:51 -0400 (Thu, 26 Jun 2014) | 1 line
+
+add one more test case
+------------------------------------------------------------------------
+r105 | c4fengzi | 2014-06-26 22:44:23 -0400 (Thu, 26 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r104 | c4fengzi | 2014-06-26 22:44:12 -0400 (Thu, 26 Jun 2014) | 1 line
+
+fix a bug
+------------------------------------------------------------------------
+r103 | c3leeken | 2014-06-26 22:10:26 -0400 (Thu, 26 Jun 2014) | 1 line
+
+DirectoryLister for ls command completed, implemented into JShell
+------------------------------------------------------------------------
+r102 | c4fengzi | 2014-06-26 21:46:05 -0400 (Thu, 26 Jun 2014) | 1 line
+
+get rid of the printPath method
+------------------------------------------------------------------------
+r101 | c4fengzi | 2014-06-26 21:44:52 -0400 (Thu, 26 Jun 2014) | 1 line
+
+fix the promt bug
+------------------------------------------------------------------------
+r100 | c4fengzi | 2014-06-26 21:05:46 -0400 (Thu, 26 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r99 | c4fengzi | 2014-06-26 21:05:38 -0400 (Thu, 26 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r98 | c4fengzi | 2014-06-26 20:59:59 -0400 (Thu, 26 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r97 | c3garret | 2014-06-26 20:49:48 -0400 (Thu, 26 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r96 | c3garret | 2014-06-26 20:48:54 -0400 (Thu, 26 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r95 | c3garret | 2014-06-26 20:46:43 -0400 (Thu, 26 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r94 | c4songyb | 2014-06-26 18:51:06 -0400 (Thu, 26 Jun 2014) | 1 line
+
+Changed the parameters for methods move and copy
+------------------------------------------------------------------------
+r93 | c3leeken | 2014-06-26 18:21:52 -0400 (Thu, 26 Jun 2014) | 1 line
+
+Minor change to getPath in Directory, minor change to prompts in JShell.  Implemented DirectoryPrinter and pwd useage in JShell
+------------------------------------------------------------------------
+r92 | c3leeken | 2014-06-26 18:06:42 -0400 (Thu, 26 Jun 2014) | 1 line
+
+Changed DirectoryMaker to work with other splitDir and getDir code.  Added documentation to Manual, small change to JShell to print the path of working directory on the prompt
+------------------------------------------------------------------------
+r91 | c4songyb | 2014-06-26 17:55:28 -0400 (Thu, 26 Jun 2014) | 1 line
+
+Removed some unneeded crc cards.
+------------------------------------------------------------------------
+r90 | c4songyb | 2014-06-26 17:54:45 -0400 (Thu, 26 Jun 2014) | 1 line
+
+Almost finished coding FileCopier and FileMover. (Some changes were also made to DirectoryGetter)
+------------------------------------------------------------------------
+r89 | c4fengzi | 2014-06-26 16:55:43 -0400 (Thu, 26 Jun 2014) | 1 line
+
+make changes since the splitDir changed
+------------------------------------------------------------------------
+r88 | c4fengzi | 2014-06-26 16:54:48 -0400 (Thu, 26 Jun 2014) | 1 line
+
+change the splitDir method
+------------------------------------------------------------------------
+r87 | c3leeken | 2014-06-26 15:35:54 -0400 (Thu, 26 Jun 2014) | 1 line
+
+Made changes to DirectoryMaker to work with input parameter given by JShell (used to take in a String, now takes in String[])
+------------------------------------------------------------------------
+r86 | c3leeken | 2014-06-26 15:35:12 -0400 (Thu, 26 Jun 2014) | 1 line
+
+Made slight changes to JShell, added mkdir functionality
+------------------------------------------------------------------------
+r85 | c4fengzi | 2014-06-26 15:32:47 -0400 (Thu, 26 Jun 2014) | 1 line
+
+add documentation
+------------------------------------------------------------------------
+r84 | c4fengzi | 2014-06-26 15:23:31 -0400 (Thu, 26 Jun 2014) | 1 line
+
+make some comment
+------------------------------------------------------------------------
+r83 | c4fengzi | 2014-06-26 14:55:51 -0400 (Thu, 26 Jun 2014) | 1 line
+
+add directorygettertest file
+------------------------------------------------------------------------
+r82 | c4fengzi | 2014-06-26 14:53:44 -0400 (Thu, 26 Jun 2014) | 1 line
+
+i fix the getdirmethod and add one more test case to the test file and move the test file to text package. now the getdir works
+------------------------------------------------------------------------
+r81 | c3garret | 2014-06-26 06:13:59 -0400 (Thu, 26 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r80 | c3garret | 2014-06-26 06:06:34 -0400 (Thu, 26 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r79 | c3garret | 2014-06-26 06:02:14 -0400 (Thu, 26 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r78 | c3garret | 2014-06-26 01:22:59 -0400 (Thu, 26 Jun 2014) | 1 line
+
+wrote draft of two methods related to echo and how they are called in jshell
+------------------------------------------------------------------------
+r77 | c3garret | 2014-06-25 23:24:13 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r76 | c3garret | 2014-06-25 23:19:59 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r75 | c3garret | 2014-06-25 23:19:46 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r74 | c3garret | 2014-06-25 23:19:32 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r73 | c3leeken | 2014-06-25 22:33:14 -0400 (Wed, 25 Jun 2014) | 1 line
+
+Committing scrum meeting
+------------------------------------------------------------------------
+r72 | c3leeken | 2014-06-25 21:55:12 -0400 (Wed, 25 Jun 2014) | 1 line
+
+Uncommented previously commented out code (realized it would work anyways due to overloading)
+------------------------------------------------------------------------
+r71 | c3leeken | 2014-06-25 21:41:43 -0400 (Wed, 25 Jun 2014) | 1 line
+
+Added another clause to getDir method
+------------------------------------------------------------------------
+r70 | c3leeken | 2014-06-25 21:39:30 -0400 (Wed, 25 Jun 2014) | 1 line
+
+Minor alteration to getDirectory to account for input Strings of both "/foo/bar" and "/foo/bar/"
+------------------------------------------------------------------------
+r69 | c3leeken | 2014-06-25 21:28:40 -0400 (Wed, 25 Jun 2014) | 1 line
+
+Commented out old block for getDir in DirectoryGetter, added in new block
+------------------------------------------------------------------------
+r68 | c3leeken | 2014-06-25 21:06:26 -0400 (Wed, 25 Jun 2014) | 1 line
+
+Added DirectoryMaker command class.  Need further clarification on getDir method in DirectoryGetter
+------------------------------------------------------------------------
+r67 | c3leeken | 2014-06-25 20:54:43 -0400 (Wed, 25 Jun 2014) | 1 line
+
+Added deleteDirectory method
+------------------------------------------------------------------------
+r66 | c3garret | 2014-06-25 13:18:00 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r65 | c3garret | 2014-06-25 13:14:50 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r64 | c3garret | 2014-06-25 13:05:21 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r63 | c3leeken | 2014-06-25 12:38:23 -0400 (Wed, 25 Jun 2014) | 1 line
+
+Re-implemented FileSystem class upon further discussion, added code to JShell to generate singleton instance of FileSystem and create/assign a root directory
+------------------------------------------------------------------------
+r62 | c4songyb | 2014-06-25 08:55:50 -0400 (Wed, 25 Jun 2014) | 1 line
+
+Committed scrum meeting for sprint #2
+------------------------------------------------------------------------
+r61 | c4fengzi | 2014-06-25 06:29:59 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r60 | c4fengzi | 2014-06-25 06:12:56 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r59 | c4fengzi | 2014-06-25 05:43:58 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r58 | c4fengzi | 2014-06-25 05:43:42 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r57 | c4fengzi | 2014-06-25 05:43:33 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r56 | c3garret | 2014-06-25 04:46:34 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r55 | c3garret | 2014-06-25 04:27:06 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r54 | c3garret | 2014-06-25 04:21:11 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r53 | c3garret | 2014-06-25 04:20:51 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r52 | c3garret | 2014-06-25 04:20:14 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r51 | c4fengzi | 2014-06-25 03:22:31 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r50 | c4fengzi | 2014-06-25 02:42:33 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r49 | c4fengzi | 2014-06-25 02:19:10 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r48 | c4fengzi | 2014-06-25 02:18:42 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r47 | c3garret | 2014-06-25 02:05:02 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r46 | c3garret | 2014-06-25 01:46:35 -0400 (Wed, 25 Jun 2014) | 1 line
+
+added documentation string for more commands
+------------------------------------------------------------------------
+r45 | c4fengzi | 2014-06-25 01:24:53 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r44 | c4fengzi | 2014-06-25 01:12:57 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r43 | c3garret | 2014-06-25 01:12:50 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r42 | c3garret | 2014-06-25 01:05:47 -0400 (Wed, 25 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r41 | c3garret | 2014-06-25 01:05:34 -0400 (Wed, 25 Jun 2014) | 1 line
+
+added documentation for catenator, echo
+------------------------------------------------------------------------
+r40 | c4fengzi | 2014-06-24 17:11:30 -0400 (Tue, 24 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r39 | c4fengzi | 2014-06-24 16:57:14 -0400 (Tue, 24 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r38 | c4songyb | 2014-06-24 16:21:48 -0400 (Tue, 24 Jun 2014) | 1 line
+
+Corrected some spelling mistakes in the CRC cards
+------------------------------------------------------------------------
+r37 | c4fengzi | 2014-06-23 23:41:49 -0400 (Mon, 23 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r36 | c4fengzi | 2014-06-23 22:17:14 -0400 (Mon, 23 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r35 | c3leeken | 2014-06-23 20:00:41 -0400 (Mon, 23 Jun 2014) | 1 line
+
+Added Spring2Backlog
+------------------------------------------------------------------------
+r34 | c3leeken | 2014-06-23 19:17:20 -0400 (Mon, 23 Jun 2014) | 1 line
+
+Added a call to setPath in constructor for Directory
+------------------------------------------------------------------------
+r33 | c3leeken | 2014-06-23 19:14:04 -0400 (Mon, 23 Jun 2014) | 1 line
+
+Deleted FileSystem class (as it was deemed unnecessary).  Gave Directory two HashSets for File and Directory.  Added getPath, setPath, addDirectory, addFile, deleteFile to Directory.
+------------------------------------------------------------------------
+r32 | c4fengzi | 2014-06-21 21:31:46 -0400 (Sat, 21 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r31 | c4fengzi | 2014-06-21 12:03:53 -0400 (Sat, 21 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r30 | c3garret | 2014-06-20 23:12:19 -0400 (Fri, 20 Jun 2014) | 1 line
+
+started writing outline of code for jshell
+------------------------------------------------------------------------
+r29 | c3garret | 2014-06-20 22:43:08 -0400 (Fri, 20 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r28 | c4songyb | 2014-06-20 20:36:01 -0400 (Fri, 20 Jun 2014) | 1 line
+
+Committed Scrum meeting for sprint #1
+------------------------------------------------------------------------
+r27 | c4songyb | 2014-06-20 15:17:50 -0400 (Fri, 20 Jun 2014) | 1 line
+
+Began coding Echo class
+------------------------------------------------------------------------
+r26 | c4songyb | 2014-06-20 12:36:20 -0400 (Fri, 20 Jun 2014) | 1 line
+
+Updated some CRC cards since certain commands (e.g echo, mkdir) were modified for 2A
+------------------------------------------------------------------------
+r25 | c3leeken | 2014-06-19 21:02:56 -0400 (Thu, 19 Jun 2014) | 3 lines
+
+Committed Sprint 1 backlog and June 19 Scrum meeting
+
+(oops, I forgot to do these first before coding.  Will remember to it the other way around next time)
+------------------------------------------------------------------------
+r24 | c3leeken | 2014-06-19 19:17:43 -0400 (Thu, 19 Jun 2014) | 1 line
+
+Added abstract method getDocumentation to Command class to be used for the 'man' command later on
+------------------------------------------------------------------------
+r23 | c3leeken | 2014-06-19 19:02:27 -0400 (Thu, 19 Jun 2014) | 1 line
+
+Begun implementation of tree-type data structure for FileSystem and Directory
+------------------------------------------------------------------------
+r22 | c3leeken | 2014-06-19 18:14:43 -0400 (Thu, 19 Jun 2014) | 1 line
+
+Added classes for Command, Directory, File, FileSystem with necessary constructors and methods
+------------------------------------------------------------------------
+r21 | c3garret | 2014-06-19 17:53:55 -0400 (Thu, 19 Jun 2014) | 1 line
+
+created class for man
+------------------------------------------------------------------------
+r20 | c4songyb | 2014-06-19 13:18:13 -0400 (Thu, 19 Jun 2014) | 1 line
+
+Corrected some grammar errors and added a product backlog to productBacklogFor2A.txt
+------------------------------------------------------------------------
+r19 | c3leeken | 2014-06-19 13:05:31 -0400 (Thu, 19 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r18 | c3leeken | 2014-06-19 13:05:05 -0400 (Thu, 19 Jun 2014) | 1 line
+
+Added fileSystem and command crcCards.  Made a few updates/changes to other crcCards
+------------------------------------------------------------------------
+r17 | c4fengzi | 2014-06-19 02:59:43 -0400 (Thu, 19 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r16 | c4fengzi | 2014-06-19 02:48:19 -0400 (Thu, 19 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r15 | c4fengzi | 2014-06-18 20:15:06 -0400 (Wed, 18 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r14 | c3garret | 2014-06-17 23:11:32 -0400 (Tue, 17 Jun 2014) | 1 line
+
+edited product backlog
+------------------------------------------------------------------------
+r13 | c3garret | 2014-06-17 21:08:28 -0400 (Tue, 17 Jun 2014) | 1 line
+
+started user stories
+------------------------------------------------------------------------
+r12 | c3garret | 2014-06-16 22:57:04 -0400 (Mon, 16 Jun 2014) | 1 line
+
+signed honour code
+------------------------------------------------------------------------
+r11 | c3leeken | 2014-06-16 21:36:44 -0400 (Mon, 16 Jun 2014) | 1 line
+
+Completed Honour Code
+------------------------------------------------------------------------
+r10 | attarwal | 2014-06-16 14:29:47 -0400 (Mon, 16 Jun 2014) | 1 line
+
+deleting the unwanted test folder
+------------------------------------------------------------------------
+r9 | c4songyb | 2014-06-16 12:49:55 -0400 (Mon, 16 Jun 2014) | 1 line
+
+Completed the honor code in JShell.java
+------------------------------------------------------------------------
+r8 | attarwal | 2014-06-15 19:21:38 -0400 (Sun, 15 Jun 2014) | 1 line
+
+Assignment2A template
+------------------------------------------------------------------------
+r7 | attarwal | 2014-06-15 19:21:37 -0400 (Sun, 15 Jun 2014) | 1 line
+
+Assignment2A template
+------------------------------------------------------------------------
+r6 | attarwal | 2014-06-15 19:21:37 -0400 (Sun, 15 Jun 2014) | 1 line
+
+Assignment2A template
+------------------------------------------------------------------------
+r5 | attarwal | 2014-06-15 19:21:36 -0400 (Sun, 15 Jun 2014) | 1 line
+
+Assignment2A template
+------------------------------------------------------------------------
+r4 | attarwal | 2014-06-15 19:21:35 -0400 (Sun, 15 Jun 2014) | 1 line
+
+Assignment2A template
+------------------------------------------------------------------------
+r3 | attarwal | 2014-06-15 19:21:34 -0400 (Sun, 15 Jun 2014) | 1 line
+
+Assignment2A template
+------------------------------------------------------------------------
+r2 | attarwal | 2014-06-15 19:21:33 -0400 (Sun, 15 Jun 2014) | 1 line
+
+Assignment2A template
+------------------------------------------------------------------------
+r1 | markus | 2014-06-15 17:12:19 -0400 (Sun, 15 Jun 2014) | 1 line
+
+
+------------------------------------------------------------------------
+
+
+
+Part 3) +++Work Distribution of Team Members+++
++++ON ALL SOURCE FILES+++
+  17 attarwal
+ 812 c3garret
+ 723 c3leeken
+ 565 c4fengzi
+ 703 c4songyb
++++ON CRC CARDS+++
+   9 attarwal
+  19 c3garret
+   7 c3leeken
+ 103 c4fengzi
+  19 c4songyb
++++ON DAILYSCRUMMEETINGS+++
+  35 attarwal
+  42 c3garret
+  32 c3leeken
+  29 c4fengzi
+  31 c4songyb
++++ON PRODUCT BACKLOG +++
+   9 attarwal
+   1 c3garret
+   1 c4fengzi
+  68 c4songyb
++++ON SPRINTS+++
+  69 attarwal
+ 145 c3leeken
+38969
+Part 4) SVN Commits
+
+
+On Sprints
+   1  attarwal 
+   4  c3leeken 
+
+
+On CRC Cards
+   1  attarwal 
+   5  c3garret 
+   2  c3leeken 
+   5  c4fengzi 
+   4  c4songyb 
+
+
+On DailyScrumMeetings
+   1  attarwal 
+   5  c3garret 
+   4  c3leeken 
+   4  c4fengzi 
+   3  c4songyb 
+
+
+On ProductBacklog
+   1  attarwal 
+   2  c3garret 
+   1  c4fengzi 
+   1  c4songyb 
+
+
+On source
+   1  attarwal 
+ 127  c3garret 
+  30  c3leeken 
+  44  c4fengzi 
+  19  c4songyb 

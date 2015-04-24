@@ -1,0 +1,7 @@
+Class name: Syntax Checker
+Parent class: 
+Subclasses:	
+Responsibilities:
+*Checks file names, directory names, and strings for proper syntax
+*Print error message if improper syntax
+Collaborators:

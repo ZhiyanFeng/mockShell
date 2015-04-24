@@ -1,0 +1,70 @@
+Product backlog
+	Backlog item						Estimate (hrs)
+	Use File System							  5
+	Make Directories						  2
+	Change Directories						  1
+	List Contents							  2
+	Print Current Directory					  1
+	Move Files and Directories				  2
+	Copy Files and Directories				  2
+	Display File Contents					  1
+	Make or Overwrite a File for a String	  3
+	Add String to a File					  3
+	Print Documentation About Using Program	  4
+
+User Stories
+	Use File System
+	-I am able to type in commands so I can easily navigate through
+	the files and directories in my file system. I can also exit the file system
+	once I'm done using it.
+	
+	Make Directories
+	- As a user I can make new folders/directories, I can make folders within
+	other folders as well, so I can easily modify my file system. 
+	
+	Change Directories
+	- As a user I can change to a directory relative to my current directory 
+	or any other directory in my file system, so I can easily navigate through
+	directories. 
+	
+	List Contents 
+	- As a user I can print the contents of the files and directories 
+	that I specify by typing a path (for a file or directory). There should
+	be a new line following each piece of content (file or directory). 
+	If I do not specify a path, the contents of the current directory
+	should be printed. So I may easily see the contents of my file system.
+	
+	Print Current Directory
+	- As a user I can easily print the path of my current working directory,
+	so I know my current location in my file system.
+	
+	Move Files and Directories
+	- As a user I should easily be able to move a file or directory from one
+	location to a new location (each location may or may not be relative to 
+	the current directory location), such as moving a file from one directory
+	to a different directory. Thus, I can make sure my files and directories
+	are kept where I want them.
+	
+	Copy Files and Directories
+	- As a user I can easily copy a file or a directory (and it's contents) into
+	a different location. This is different from moving files/directories 
+	because I don't want to remove the old file/directory. Thus, I can make 
+	sure my files and directories are kept where I want them.
+	
+	Display File Contents
+	- As a user I can easily display the contents of a specified file.
+	
+	Make or Overwrite a File for a String
+	- As a user I can specify a string to add to a new specified file. Or I can
+	add the string to an existing specified file and overwrite contents of that
+	file. Thus, a given file will have the contents I want it to have.
+	
+	Add String to a File
+	- As a user I can specify a string to append to a specified new file or a
+	specified existing file. The contents of the existing file are not 
+	overwritten. Thus, a given file will have the contents I want it to have.
+	
+	Print Documentation About Using Program
+	- As a user I can easily print documentation and instructions for using
+	the program to interact with the file system (i.e. what commands to 
+	type into the program).

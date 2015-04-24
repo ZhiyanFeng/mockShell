@@ -1,0 +1,9 @@
+Class name: DirectoryMaker
+Parent class: command
+Subclasses:	
+Responsibilities:
+*Creates directories, each of which may or may not belong to the current 
+directory
+Collaborators:
+*Directory
+*GetDirectory

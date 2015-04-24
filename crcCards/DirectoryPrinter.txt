@@ -1,0 +1,9 @@
+Class name: DirectoryPrinter
+Parent class: GetWorkingDirectory
+Subclasses:	none
+Responsibilities:
+* Prints the current directory
+*Capture display output and create outfile or append or overwrite to existing
+outfile when specified
+Collaborators:
+* Directory

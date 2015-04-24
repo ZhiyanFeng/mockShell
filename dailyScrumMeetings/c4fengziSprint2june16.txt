@@ -1,0 +1,9 @@
+What did I do last time?
+	- finished the DirectoryGetter and Catenater Class
+
+What do I plan to do now?
+	- Rename CRC cards and Class files to be more descriptive
+	- Write class to change directories (in current directory or full path)
+
+Am I blocked on anything?
+	- 

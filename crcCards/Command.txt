@@ -1,0 +1,10 @@
+Class  name:  command
+Parent  class:  
+Subclasses:  Catenater, DirectoryChanger, FileCoppier, FileAppender,FileAdder,
+ FileGetter, GetDirectory, DirectoryLister, DirectoryMaker, FileMover, DirectoryPrinter
+Responsibilities:
+*perform an action on receiving user input from jShell
+Collaborators:
+*File
+*Directory
+*JShell

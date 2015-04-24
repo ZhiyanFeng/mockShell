@@ -1,0 +1,9 @@
+Class name:FileMover
+Parent class: FileCopier
+Subclasses:	
+Responsibilities:
+* Moves a file from a directory to another directory
+Collaborators:
+* Directory
+* File
+* FileCopier

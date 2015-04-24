@@ -1,0 +1,11 @@
+What did I do last time?
+	- Complete coding FileCopier and FileMover classes
+	- Corrected some bugs with the Directory class
+
+What do I plan to do now?
+	- Write Javadocs and unit tests for FileCopier and FileMover
+	- Resolve any remaining issues for any code that I've written.
+
+Am I blocked on anything?
+	- Still trying to find a way to move some of the code for FileCopier's
+	  copy method into helper classes

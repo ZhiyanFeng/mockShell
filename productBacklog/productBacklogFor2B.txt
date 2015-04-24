@@ -1,0 +1,121 @@
+Product backlog
+	Backlog item							Estimate (hrs)
+	List Contents Recursively				  	2
+	Capture List Contents Output to File		1
+	Capture Print Directory Output to file	 	1
+	Capture File Contents Output to file	  	1
+	Capture Documentation Output to file		1
+	Get File from URL							2
+	Push Directory								3
+	Pop Directory								3	
+	Remove Path									3
+	Other Redirection							1
+	Bonus Regex	Path							4
+	
+	
+	
+
+User Stories
+	Use File System
+	-I am able to type in commands so I can easily navigate through
+	the files and directories in my file system. I can also exit the file system
+	once I'm done using it.
+	
+	Make Directories
+	- As a user I can make new folders/directories, I can make folders within
+	other folders as well, so I can easily modify my file system. 
+	
+	Change Directories
+	- As a user I can change to a directory relative to my current directory 
+	or any other directory in my file system, so I can easily navigate through
+	directories. 
+	
+	List Contents 
+	- As a user I can print the contents of the files and directories 
+	that I specify by typing a path (for a file or directory). There should
+	be a new line following each piece of content (file or directory). 
+	If I do not specify a path, the contents of the current directory.
+	~ Additionally, I may specify to capture the output and append it or
+	overwrite it to an existing or not previously existing file instead of
+	printing the output to the console.
+	should be printed. So I may easily see the contents of my file system. 
+	~ Additionally, I may specify to recursively list all subdirectories for a
+	given path or the current directory.
+	
+	Print Current Directory
+	- As a user I can easily print the path of my current working directory,
+	so I know my current location in my file system.
+	~ Additionally, I may specify to capture the output and append it or
+	overwrite it to an existing or not previously existing file instead of
+	printing the output to the console.
+	
+	Move Files and Directories
+	- As a user I should easily be able to move a file or directory from one
+	location to a new location (each location may or may not be relative to 
+	the current directory location), such as moving a file from one directory
+	to a different directory. Thus, I can make sure my files and directories
+	are kept where I want them.
+	
+	Copy Files and Directories
+	- As a user I can easily copy a file or a directory (and it's contents) into
+	a different location. This is different from moving files/directories 
+	because I don't want to remove the old file/directory. Thus, I can make 
+	sure my files and directories are kept where I want them.
+	
+	Display File Contents
+	- As a user I can easily display the contents of a specified file.
+	~ Additionally, I may specify to capture the output and append it or
+	overwrite it to an existing or not previously existing file instead of
+	printing the output to the console.
+	
+	Make or Overwrite a File for a String
+	- As a user I can specify a string to add to a new specified file. Or I can
+	add the string to an existing specified file and overwrite contents of that
+	file. Thus, a given file will have the contents I want it to have. If I do 
+	not specify a file, the string should be printed in the console.
+	
+	Add String to a File
+	- As a user I can specify a string to append to a specified new file or a
+	specified existing file. The contents of the existing file are not 
+	overwritten. Thus, a given file will have the contents I want it to have.
+	If I do not specify a file, the string should be printed in the console.
+	
+	Print Documentation About Using Program
+	- As a user I can easily print documentation and instructions for using
+	the program to interact with the file system (i.e. what commands to 
+	type into the program).
+	~ Additionally, I may specify to capture the output and append it or
+	overwrite it to an existing or not previously existing file instead of
+	printing the output to the console.
+	
+	Get File From URL
+	- As a user I can get a file from a specified URL and add it to the 
+	current directory.
+	
+	Push Directory
+	- As a user I can save the current working directory and then 
+	change the working directory to a specified directory. I may return
+	the saved directory at a later time.
+	
+	Pop Directory
+	- As a user I can change directories to the most recently saved directory
+	from the directory stack.
+	
+	Remove Path
+	- As a user I can delete a specified file or directory and its contents,
+	I may specify a path for said file or directory. I should be prompted 
+	before each item is removed, unless I specify otherwise. 
+	
+	Other Redirection
+	- As a user I may also apply redirection to a a command that does not have
+	any output to capture. In this case, the outfile should not be created
+	or edited, but an error should not be returned either. 
+	
+	Bonus: Regex Path
+	- As a user I can specify a path to a file and print all lines from that
+	file that contain the specified regex. I may also specify a path to a 
+	directory, in which case, the directory should be recursively traversed
+	and all files that contain lines with the specified regex, should be 
+	displayed. The print display format should be, the path to the file, 
+	including the file name, then a colon, then the lin containing the
+	specified regex.

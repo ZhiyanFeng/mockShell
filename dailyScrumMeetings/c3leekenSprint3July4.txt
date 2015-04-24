@@ -1,0 +1,11 @@
+What did I do last time?
+	- Completely rewrote and finalized DirectoryLister
+	- Finalized DirectoryMaker
+	- Started making JUnit tests
+
+What do I plan to do now?
+	- Finish writing JUnit tests
+	- Write javadocs for my classes
+
+Am I blocked on anything?
+	- Nope

@@ -1,0 +1,15 @@
+What did I do last time?
+	- first sprint of a2b, so nothing
+
+
+What do I plan to do now?
+	- Create CRC card for class that gets file from URL
+	- Create class that gets file from URL and implement it in 
+	JShell/Interpreter
+	- Create CRC card for helper class, Interpreter, for JShell
+	- Create Interpreter
+	- Ajust JShell and interpreter so they allows all commands to include 
+	> OUTFILE or >> OUTFILE
+	- Ajust the echo  class to work with the above requirement
+Am I blocked on anything?
+	- How to get file content from a URL, I will look it up

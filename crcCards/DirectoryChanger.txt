@@ -1,0 +1,7 @@
+Class name:DirectoryChanger
+Parent class: Command
+Subclasses:	none
+Responsibilities:
+* Changes the working directory
+Collaborators:
+* Directory

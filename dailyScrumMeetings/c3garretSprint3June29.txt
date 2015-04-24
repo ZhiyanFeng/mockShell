@@ -1,0 +1,11 @@
+What did I do last time?
+	- Wrote a string documentation variable for each command subclass
+	- Created working working echo class
+
+What do I plan to do now?
+	- Make echo code more efficient
+	- Write JUnit tests for echo
+	- Change all string documentations to private
+
+Am I blocked on anything?
+	- making echo code more efficient

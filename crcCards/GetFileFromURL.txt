@@ -1,0 +1,9 @@
+Class name: GetFromURL
+Parent class: Command
+Subclasses:	
+Responsibilities:
+*Retrieve a file from a specified URL and it to the current working directory
+Collaborators:
+*File
+*Directory
+*FileGetter

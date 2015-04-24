@@ -1,0 +1,8 @@
+What did I do last time?
+	- Nothing, since this is the first sprint
+
+What do I plan to do now?
+	- start to implement class Remover
+
+Am I blocked on anything?
+	- nope

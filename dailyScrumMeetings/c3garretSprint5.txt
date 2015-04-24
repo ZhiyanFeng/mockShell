@@ -1,0 +1,21 @@
+What did I do last time?
+	- Created CRC card for class that gets file from URL
+	- Created class that gets file from URL and implement it in 
+	JShell/Interpreter/Redirection
+	- Created CRC card for helper class, Interpreter, for JShell
+	- Created Interpreter
+	- Created CRC card for helper class, Redirection, for Interpreter
+	- Created Redirection
+	- Ajusted JShell and interpreter so they allows all commands to include 
+	> OUTFILE or >> OUTFILE by creating redirection
+	- Ajusted the echo  class to work with the above requirement
+	- Created test class for get file from URL and adjusted echo test and
+	syntax checker test
+
+
+What do I plan to do now?
+	- May create test class for Interpreter and redirection, although
+	they mainly just call on other classes
+
+Am I blocked on anything?
+	- no

@@ -1,0 +1,7 @@
+Class name: Remover
+Parent class: command
+Subclasses:	
+Responsibilities: remove file or directory with confirmation
+Collaborators:
+*Directory
+*File

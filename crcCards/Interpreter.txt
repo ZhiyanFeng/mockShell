@@ -1,0 +1,18 @@
+Class name: Interpreter
+Parent class: 
+Subclasses:	
+Responsibilities:
+*Interprets user input for JShell by taking input as a parameter and then
+calling the appropriate methods.
+Collaborators:
+*DirectoryMaker
+*DirectoryChanger
+*DirectoryLister
+*DirectoryPrinter
+*FileMover
+*FileCopier
+*Catenater
+*FileGetter
+*FileAdder
+*FileAppender
+*Redirection
